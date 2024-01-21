@@ -1,9 +1,9 @@
 # Momentum strategy
 將動能策略應用於台股，每日買進過去D天漲幅最多的前X%的股票，權重依據當日漲幅進行加權
 # files
-1. **Momentum**
+1. **Momentum.ipynb**
 - 動能策略code
-2. **Strategy performance analysis**
+2. **Strategy performance analysis.html**
 - 動能策略績效分析
 ## data
 - benchmark : 台灣加權股價指數(Y9999)調整後日報酬率，sources = TEJ
