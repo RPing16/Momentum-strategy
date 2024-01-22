@@ -48,4 +48,10 @@
 - 結果 : 短期動能策略績效明顯優於長期
 
 ## 策略績效分析圖表
-![示例圖片](https://github.com/RPing16/Momentum-strategy/blob/main/test.jpg)
+![示例圖片](https://github.com/RPing16/Momentum-strategy/blob/main/Strategic%20Performance%20Analysis%20Chart/cum%20ret%20line%20chart.jpg)
+
+![示例圖片](https://github.com/RPing16/Momentum-strategy/blob/main/Strategic%20Performance%20Analysis%20Chart/key%20performance%20table.jpg)
+
+![示例圖片](https://github.com/RPing16/Momentum-strategy/blob/main/Strategic%20Performance%20Analysis%20Chart/EOY%20Returns%20vs%20Benchmark.jpg)
+
+![示例圖片](https://github.com/RPing16/Momentum-strategy/blob/main/Strategic%20Performance%20Analysis%20Chart/rolling%20index.jpg)
