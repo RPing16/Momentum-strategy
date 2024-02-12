@@ -4,7 +4,9 @@
 ## 動機
 - 根據過去文獻，在美股動能屬於長期現象，大約發生在3~12個月
 - 好奇台股的動能策略表現如何
-- 參考文獻 : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299107
+- 參考文獻
+   - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299107
+   - https://www.jstor.org/stable/222579
 
 # files
 1. **Momentum.ipynb**
